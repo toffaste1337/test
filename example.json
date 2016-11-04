@@ -1,0 +1,18 @@
+[{
+	"profile_name": "Eksempel 01",
+	"profile_creator": "Nicolai Frisvold",
+	"profile_creation_date": "20.10.2016",
+	"profile_graph": [
+		{
+			"profile_step": 0,
+			"profile_temperature": 30,
+			"_comment": "Temperaturen som skal være etter x sekunder",
+			"profile_timespan_seconds": 100 
+		},
+		{
+			"profile_step": 1,
+			"profile_temperature": 100, 
+			"profile_timespan_seconds": 200
+		}
+	]
+}]
